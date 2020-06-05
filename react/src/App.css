@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+    align-content: center;
+
+  }
+
+  .Login form {
+    margin: 0 auto;
+    max-width: 420px;
+    
+  }
+}
+
+.Card {
+  color:red;
+}
